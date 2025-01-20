@@ -1,4 +1,4 @@
-# Python-DSA-Two-Pointer-1
+# Python-DSA-Two-Pointer-1 -- Minimum Average of Smallest and Largest Elements
 
 https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/?envType=problem-list-v2&envId=two-pointers
 
